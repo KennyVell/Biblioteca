@@ -18,34 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Usuario\3D Objects\Biblioteca\BibliotecaCrud
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Bibliotecarios/Actualizar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYXJpb3NcQWN0dWFsaXphci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Bibliotecarios/Buscar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYXJpb3NcQnVzY2FyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Bibliotecarios/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYXJpb3NcQ3JlYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Bibliotecarios/Detalles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYXJpb3NcRGV0YWxsZXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Bibliotecarios/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYXJpb3NcRWRpdGFyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Bibliotecarios/Eliminar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYXJpb3NcRWxpbWluYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Bibliotecarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlibGlvdGVjYXJpb3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Actualizar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xBY3R1YWxpemFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -72,6 +44,34 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEFjdHVhbGl6YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Buscar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEJ1c2Nhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFsbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Home/Index.cshtml]

@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Mvc.Controllers;
 
-public class BibliotecariosController : Controller {
+public class EmpleadosController : Controller {
     public IActionResult Index() {
         return View();
     }
