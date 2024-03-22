@@ -9,175 +9,175 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BibliotecaCrud
 build_property.RootNamespace = BibliotecaCrud
-build_property.ProjectDir = C:\Users\Usuario\3D Objects\Biblioteca\BibliotecaCrud\
+build_property.ProjectDir = /home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\3D Objects\Biblioteca\BibliotecaCrud
+build_property.MSBuildProjectDirectory = /home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Actualizar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xBY3R1YWxpemFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Ejemplares/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWplbXBsYXJlcy9BY3R1YWxpemFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Buscar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xCdXNjYXIuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Ejemplares/Buscar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWplbXBsYXJlcy9CdXNjYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xDcmVhci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Ejemplares/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWplbXBsYXJlcy9DcmVhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Detalles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xEZXRhbGxlcy5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Ejemplares/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWplbXBsYXJlcy9EZXRhbGxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xFZGl0YXIuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Ejemplares/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWplbXBsYXJlcy9FZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Eliminar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xFbGltaW5hci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Ejemplares/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWplbXBsYXJlcy9FbGltaW5hci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Ejemplares/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsYXJlc1xJbmRleC5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Ejemplares/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRWplbXBsYXJlcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Actualizar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEFjdHVhbGl6YXIuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Empleados/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG9zL0FjdHVhbGl6YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Buscar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEJ1c2Nhci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Empleados/Buscar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG9zL0J1c2Nhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Empleados/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG9zL0NyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Detalles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFsbGVzLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Empleados/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG9zL0RldGFsbGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXRhci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Empleados/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG9zL0VkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Eliminar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVsaW1pbmFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Empleados/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG9zL0VsaW1pbmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Empleados/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Empleados/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG9zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Libros/Actualizar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEFjdHVhbGl6YXIuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Libros/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0FjdHVhbGl6YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Libros/Buscar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEJ1c2Nhci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Libros/Buscar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0J1c2Nhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Libros/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXENyZWFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Libros/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0NyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Libros/Detalles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXERldGFsbGVzLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Libros/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0RldGFsbGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Libros/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEVkaXRhci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Libros/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0VkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Libros/Eliminar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEVsaW1pbmFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Libros/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0VsaW1pbmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Libros/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Libros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Prestamos/Actualizar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9zXEFjdHVhbGl6YXIuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Prestamos/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0FjdHVhbGl6YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Prestamos/Buscar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9zXEJ1c2Nhci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Prestamos/Buscar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0J1c2Nhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Prestamos/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9zXENyZWFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Prestamos/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0NyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Prestamos/Detalles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9zXERldGFsbGVzLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Prestamos/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0RldGFsbGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Prestamos/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9zXEVkaXRhci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Prestamos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0VkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Prestamos/Eliminar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9zXEVsaW1pbmFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Prestamos/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0VsaW1pbmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Prestamos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9zXEluZGV4LmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Prestamos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Usuarios/Actualizar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQWN0dWFsaXphci5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Usuarios/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQWN0dWFsaXphci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Usuarios/Buscar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQnVzY2FyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Usuarios/Buscar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQnVzY2FyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Usuarios/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXIuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Usuarios/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQ3JlYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Usuarios/Detalles.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWxsZXMuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Usuarios/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRGV0YWxsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Usuarios/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdGFyLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Usuarios/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRWRpdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Usuarios/Eliminar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWxpbWluYXIuY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Usuarios/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRWxpbWluYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Usuarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-288b1mro9o
+[/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9536inhyhd

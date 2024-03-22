@@ -3,48 +3,62 @@
 }
 
 <div class="mt-5">
-    <div class="row">
-        <div class="col">
-            <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a asp-area="" asp-controller="Libros" asp-action="Index">volver</a></li>
-                    <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a></li>
-                    <li class="breadcrumb-item">Gestion de libros</li>
-                </ol>
-            </nav>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Libros" asp-action="Index">volver</a>
+                        </li>
+                    </ol>
+                </nav>
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de libros</li>
+                    </ol>
+                </nav>
+            </div>
         </div>
     </div>
-    <div class="row col-6 mx-auto">
-        <form>
-        <div class="mb-3">
-            <label for="inputTitulo" class="form-label">Título</label>
-            <input type="text" class="form-control" id="inputTitulo">
+
+    <div class="container p-5 border rounded">
+        <div class="row col-6 mx-auto">
+            <form>
+                <h2 class="text-center">Crear nuevo usario</h2>
+                <div class="mb-3">
+                    <label for="inputTitulo" class="form-label">Título</label>
+                    <input type="text" class="form-control" id="inputTitulo">
+                </div>
+                <div class="mb-3">
+                    <label for="inputResumen" class="form-label">Resumen</label>
+                    <textarea rows="5" class="form-control" id="inputResumen"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="inputAutor" class="form-label">Autor</label>
+                    <input type="text" class="form-control" id="inputAutor">
+                </div>
+                <div class="mb-3">
+                    <label for="inputEditorial" class="form-label">Editorial</label>
+                    <input type="text" class="form-control" id="inputEditorial">
+                </div>
+                <div class="mb-3">
+                    <label for="inputGenero" class="form-label">Genero</label>
+                    <input type="text" class="form-control" id="inputGenero">
+                </div>
+                <div class="mb-3">
+                    <label for="inputImgUrl" class="form-label">Url o ruta de la imagen</label>
+                    <input type="url" class="form-control" id="inputImgUrl">
+                </div>
+                <div class="mb-3">
+                    <label for="inputYear" class="form-label">Año de publicación</label>
+                    <input type="date" class="form-control" id="inputYear">
+                </div>
+                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Libros" asp-action="Index">Crear nuevo libro</a>
+            </form>
         </div>
-        <div class="mb-3">
-            <label for="inputResumen" class="form-label">Resumen</label>
-            <input type="text" class="form-control" id="inputResumen">
-        </div>
-        <div class="mb-3">
-            <label for="inputAutor" class="form-label">Autor</label>
-            <input type="text" class="form-control" id="inputAutor">
-        </div>
-        <div class="mb-3">
-            <label for="inputEditorial" class="form-label">Editorial</label>
-            <input type="text" class="form-control" id="inputEditorial">
-        </div>
-        <div class="mb-3">
-            <label for="inputGenero" class="form-label">Genero</label>
-            <input type="text" class="form-control" id="inputGenero">
-        </div>
-        <div class="mb-3">
-            <label for="inputImgUrl" class="form-label">Url o ruta de la imagen</label>
-            <input type="url" class="form-control" id="inputImgUrl">
-        </div>
-        <div class="mb-3">
-            <label for="inputYear" class="form-label">Año de publicación</label>
-            <input type="date" class="form-control" id="inputYear">
-        </div>
-        <a class="btn btn-primary mt-3" asp-area="" asp-controller="Libros" asp-action="Index">Crear nuevo libro</a>
-    </form>
-    </div>    
+    </div>
+
 </div>
