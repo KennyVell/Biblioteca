@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/riwip5-041/.nuget/packages/": {}
+    "/home/riwip5-009/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/BibliotecaCrud.csproj",
+      "projectUniqueName": "/home/riwip5-009/Music/Biblioteca/BibliotecaCrud/BibliotecaCrud.csproj",
       "projectName": "BibliotecaCrud",
-      "projectPath": "/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/BibliotecaCrud.csproj",
-      "packagesPath": "/home/riwip5-041/.nuget/packages/",
-      "outputPath": "/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/",
+      "projectPath": "/home/riwip5-009/Music/Biblioteca/BibliotecaCrud/BibliotecaCrud.csproj",
+      "packagesPath": "/home/riwip5-009/.nuget/packages/",
+      "outputPath": "/home/riwip5-009/Music/Biblioteca/BibliotecaCrud/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/riwip5-041/.nuget/NuGet/NuGet.Config"
+        "/home/riwip5-009/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
