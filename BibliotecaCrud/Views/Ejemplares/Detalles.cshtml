@@ -1,3 +1,68 @@
 @{
     ViewData["Title"] = "Detalles";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Ejemplares"
+                                asp-action="Index">volver</a>
+                        </li>
+                    </ol>
+                </nav>
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de ejemplares</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded text-center">
+        <div class="row">
+            <div class="col">
+                <table class="table">
+                    <thead>
+                        <tr>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Id libro:</td>
+                            <td>1234</td>
+                            <td>id ejemplar:</td>
+                            <td>sa12</td>
+                        </tr>
+                        <tr>
+                            <td>Nombre ejemplar:</td>
+                            <td>La odiesea</td>
+                            <td>Cantidad:</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Estado:</td>
+                            <td>Buen estado</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row text-center mt-3">
+            <div class="col">
+                <a class="btn btn-primary" asp-area="" asp-controller="Ejemplares" asp-action="Index">Ver lista de
+                    ejemplares</a>
+            </div>
+        </div>
+
+    </div>
+</div>

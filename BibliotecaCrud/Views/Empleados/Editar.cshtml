@@ -1,3 +1,74 @@
 @{
     ViewData["Title"] = "Editar empleado";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Empleados"
+                                asp-action="Index">volver</a>
+                        </li>
+                    </ol>
+                </nav>
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de empleados</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded">
+        <div class="row col-6 mx-auto">
+            <form>
+                <h2 class="text-center">Editar empleado</h2>
+                <div class="mb-3">
+                    <label for="inputNombre" class="form-label">Nombres</label>
+                    <input type="text" class="form-control" id="inputTitulo" value="Robinson">
+                </div>
+                <div class="mb-3">
+                    <label for="inputApellido" class="form-label">Apellidos</label>
+                    <input type="text" class="form-control" id="inputApellidos" value="Cortes">
+                </div>
+                <div class="mb-3">
+                    <label for="inpoTipoDocumento" class="form-label">Tipo documento</label>
+                    <select type="text" class="form-control" id="inputTipoDocumento">
+                        <option disabled>Seleccione una opcion</option>
+                        <option value="cedula">Cédula</option>
+                        <option value="Tarjeta identidad">Tarjeta identidad</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputGenero" class="form-label">Genero</label>
+                    <select type="text" class="form-control" id="inputGenero">
+                        <option disabled>Seleccione una opcion</option>
+                        <option value="hombre">Hombre</option>
+                        <option value="mujer">Mujer</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputEditorial" class="form-label">Numero documento</label>
+                    <input type="text" class="form-control" id="inputNumeroDocumento" value="30345">
+                </div>
+                <div class="mb-3">
+                    <label for="inputNumero" class="form-label">Numero de contacto</label>
+                    <input type="tel" class="form-control" id="inputNumero" value="30000000">
+                </div>
+                <div class="mb-3">
+                    <label for="inputEmail" class="form-label">Correo electronico</label>
+                    <input type="email" class="form-control" id="inputEmail" value="robinson@gmail.com">
+                </div>
+                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Empleados"
+                    asp-action="Actualizar">Actualizar datos empleado</a>
+            </form>
+        </div>
+    </div>

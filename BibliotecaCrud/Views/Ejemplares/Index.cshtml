@@ -1,3 +1,60 @@
 @{
     ViewData["Title"] = "Ejemplares";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de ejemplares</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded">
+        <div class="row">
+            <div class="col">
+                <a class="btn btn-primary" asp-area="" asp-controller="Ejemplares" asp-action="Crear">Crear nuevo
+                    ejemplar</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <table class="table table-striped mt-4">
+                    <tbody>
+                        <tr>
+                            <th scope="col">Id</th>
+                            <th scope="col">Título</th>
+                            <th scope="col">Cantidad</th>
+                            <th scope="col">Estado</th>
+                            <th scope="col">Acciones</th>
+                        </tr>
+                        <tr class="align-middle">
+                            <td>1</td>
+                            <td>El Hobbit</td>
+                            <td>3</td>
+                            <td>Buen estado</td>
+                            <td>
+                                <div role="group">
+                                    <a class="btn btn-danger" asp-area="" asp-controller="Ejemplares"
+                                        asp-action="Eliminar">Eliminar</a>
+                                    <a class="btn btn-warning" asp-area="" asp-controller="Ejemplares"
+                                        asp-action="Editar">Editar</a>
+                                    <a class="btn btn-primary" asp-area="" asp-controller="Ejemplares"
+                                        asp-action="Detalles">Detalles</a>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,3 +1,61 @@
 @{
     ViewData["Title"] = "Editar ejemplar";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Ejemplares"
+                                asp-action="Index">volver</a>
+                        </li>
+                    </ol>
+                </nav>
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de ejemplares</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded">
+        <div class="row col-6 mx-auto">
+            <form>
+                <h2 class="text-center">Editar ejemplar</h2>
+                <div class="mb-3">
+                    <label for="inputIdLibro" class="form-label">Id del libro</label>
+                    <input type="text" class="form-control" id="inputIdLibro" value="12344">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputNombre" class="form-label">Nombre del ejemplar</label>
+                    <input type="text" class="form-control" id="inputNombre" value="La odisea">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputCantidad" class="form-label">Cantidad</label>
+                    <input type="number" class="form-control" id="inputCantidad" value="1">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputEstado" class="form-label">Esatdo del ejemplar</label>
+                    <select type="date" class="form-control" id="inputEstado">
+                        <option value="" disabled focus>Selecccione una opcion</option>
+                        <option value="buen estado">Buen estado</option>
+                        <option value="mal estado">Mal estado</option>
+                    </select>
+                </div>
+                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Ejemplares" asp-action="Index">Editar
+                    ejemplar</a>
+            </form>
+        </div>
+    </div>
+
+</div>
