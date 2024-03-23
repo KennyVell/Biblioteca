@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da8393f9c32d49ad52fc5b42f53ea3f21b9f9ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7d7de32c2c02224959a64f97754c66f843fac13")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

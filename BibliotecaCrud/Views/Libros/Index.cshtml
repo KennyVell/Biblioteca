@@ -21,7 +21,11 @@
     <div class="container p-5 border rounded">
         <div class="row">
             <div class="col">
-                <a class="btn btn-primary" asp-area="" asp-controller="Libros" asp-action="Crear">Crear nuevo libro</a>
+                <a class="d-flex float-start btn btn-primary" asp-area="" asp-controller="Libros" asp-action="Crear">Crear nuevo libro</a>
+                <form class="d-flex float-end" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
             </div>
         </div>
         <div class="row">
@@ -42,7 +46,55 @@
                             <td>1</td>
                             <td>
                                 <a asp-area="" asp-controller="Libros" asp-action="Detalles">
-                                    <img src="https://images.cdn1.buscalibre.com/fit-in/360x360/47/5a/475a983f7abdaf0f9b03c4ddbb26d790.jpg"
+                                    <img src="https://images.cdn3.buscalibre.com/fit-in/360x360/12/9c/129cd2afb82c4da11555394baeedcb54.jpg"
+                                        style="height: 100px;" alt="Portada" />
+                                </a>
+                            </td>
+                            <td>El Hobbit</td>
+                            <td>J.R.R. Tolkien</td>
+                            <td>Minotauro</td>
+                            <td>Fantasía</td>
+                            <td>2002</td>
+                            <td>
+                                <div role="group">
+                                    <a class="btn btn-danger" asp-area="" asp-controller="Libros"
+                                        asp-action="Eliminar">Eliminar</a>
+                                    <a class="btn btn-warning" asp-area="" asp-controller="Libros"
+                                        asp-action="Editar">Editar</a>
+                                    <a class="btn btn-primary" asp-area="" asp-controller="Libros"
+                                        asp-action="Detalles">Detalles</a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="align-middle">
+                            <td>2</td>
+                            <td>
+                                <a asp-area="" asp-controller="Libros" asp-action="Detalles">
+                                    <img src="https://images.cdn3.buscalibre.com/fit-in/360x360/d6/90/d690f35da7f1d627559be4e8b27dcad6.jpg"
+                                        style="height: 100px;" alt="Portada" />
+                                </a>
+                            </td>
+                            <td>El Hobbit</td>
+                            <td>J.R.R. Tolkien</td>
+                            <td>Minotauro</td>
+                            <td>Fantasía</td>
+                            <td>2002</td>
+                            <td>
+                                <div role="group">
+                                    <a class="btn btn-danger" asp-area="" asp-controller="Libros"
+                                        asp-action="Eliminar">Eliminar</a>
+                                    <a class="btn btn-warning" asp-area="" asp-controller="Libros"
+                                        asp-action="Editar">Editar</a>
+                                    <a class="btn btn-primary" asp-area="" asp-controller="Libros"
+                                        asp-action="Detalles">Detalles</a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr class="align-middle">
+                            <td>3</td>
+                            <td>
+                                <a asp-area="" asp-controller="Libros" asp-action="Detalles">
+                                    <img src="https://image.cdn0.buscalibre.com/5cded6928763b5cd5c8b4567.__RS360x360__.jpg"
                                         style="height: 100px;" alt="Portada" />
                                 </a>
                             </td>
