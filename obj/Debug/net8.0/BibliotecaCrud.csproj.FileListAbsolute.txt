@@ -1,0 +1,92 @@
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/appsettings.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.staticwebassets.runtime.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.exe
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.deps.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.runtimeconfig.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.dll
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.pdb
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.AssemblyInfoInputs.cache
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.AssemblyInfo.cs
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.RazorAssemblyInfo.cache
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.RazorAssemblyInfo.cs
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.sourcelink.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.BibliotecaCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.build.BibliotecaCrud.props
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BibliotecaCrud.props
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BibliotecaCrud.props
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/scopedcss/bundle/BibliotecaCrud.styles.css
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/scopedcss/projectbundle/BibliotecaCrud.bundle.scp.css
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.dll
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/refint/BibliotecaCrud.dll
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.pdb
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.genruntimeconfig.cache
+C:/Users/Usuario/3D Objects/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/ref/BibliotecaCrud.dll
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/appsettings.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.staticwebassets.runtime.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.deps.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.runtimeconfig.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.dll
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/bin/Debug/net8.0/BibliotecaCrud.pdb
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.AssemblyInfoInputs.cache
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.AssemblyInfo.cs
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.csproj.CoreCompileInputs.cache
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.RazorAssemblyInfo.cache
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.RazorAssemblyInfo.cs
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.sourcelink.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.BibliotecaCrud.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.build.BibliotecaCrud.props
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BibliotecaCrud.props
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BibliotecaCrud.props
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/scopedcss/bundle/BibliotecaCrud.styles.css
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/scopedcss/projectbundle/BibliotecaCrud.bundle.scp.css
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.dll
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/refint/BibliotecaCrud.dll
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.pdb
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/BibliotecaCrud.genruntimeconfig.cache
+/home/riwip5-041/Documents/Ejercicios/Biblioteca/BibliotecaCrud/obj/Debug/net8.0/ref/BibliotecaCrud.dll
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\appsettings.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\BibliotecaCrud.staticwebassets.runtime.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\BibliotecaCrud.exe
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\BibliotecaCrud.deps.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\BibliotecaCrud.runtimeconfig.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\BibliotecaCrud.dll
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\bin\Debug\net8.0\BibliotecaCrud.pdb
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.AssemblyInfoInputs.cache
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.AssemblyInfo.cs
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.csproj.CoreCompileInputs.cache
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.RazorAssemblyInfo.cache
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.RazorAssemblyInfo.cs
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\staticwebassets\msbuild.BibliotecaCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.BibliotecaCrud.props
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BibliotecaCrud.props
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BibliotecaCrud.props
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\scopedcss\bundle\BibliotecaCrud.styles.css
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\scopedcss\projectbundle\BibliotecaCrud.bundle.scp.css
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.dll
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\refint\BibliotecaCrud.dll
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.pdb
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.genruntimeconfig.cache
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\ref\BibliotecaCrud.dll
