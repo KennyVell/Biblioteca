@@ -90,3 +90,4 @@ C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\refint\Bibl
 C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.pdb
 C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.genruntimeconfig.cache
 C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\ref\BibliotecaCrud.dll
+C:\Users\galle\Escritorio\Biblioteca\BibliotecaCrud\obj\Debug\net8.0\BibliotecaCrud.sourcelink.json

@@ -1,7 +1,7 @@
 @{
     ViewData["Title"] = "Crear usuario";
 }
-
+@* git remote add origin https://github.com/KennyVell/Biblioteca.git *@
 <div class="mt-5">
 
     <div class="container">
@@ -36,6 +36,12 @@
                     <label for="inputApellido" class="form-label">Apellidos</label>
                     <input type="text" class="form-control" id="inputApellidos">
                 </div>
+
+                <div class="mb-3">
+                    <label for="inputEdad" class="form-label">Edad</label>
+                    <input type="number" class="form-control" id="inputEdad">
+                </div>
+
                 <div class="mb-3">
                     <label for="inpoTipoDocumento" class="form-label">Tipo documento</label>
                     <select type="text" class="form-control" id="inputTipoDocumento">
@@ -60,7 +66,7 @@
                 </div>
                 <div class="mb-3">
                     <label for="inputContacto" class="form-label">Numero de contacto</label>
-                    <input type="tel" class="form-control" id="inputNumero">
+                    <input type="tel" class="form-control" id="inputNumerocontacto">
                 </div>
                 <div class="mb-3">
                     <label for="inputCorreo" class="form-label">Correo electronico</label>
@@ -68,10 +74,10 @@
                 </div>
 
                   <div class="mb-3">
-                    <label for="inputImgUrl" class="form-label">Correo electronico</label>
-                    <input type="email" class="form-control" id="inputEmail">
+                    <label for="inputDireccion" class="form-label">Direccion</label>
+                    <input type="text" class="form-control" id="inputDireccion">
                 </div>
-                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Empleados" asp-action="Index">Crear nuevo empleado</a>
+                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Usuarios" asp-action="Index">Crear nuevo usuario</a>
             </form>
         </div>
     </div>
