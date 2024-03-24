@@ -1,3 +1,74 @@
 @{
     ViewData["Title"] = "Detalles";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Prestamos"
+                                asp-action="Index">volver</a>
+                        </li>
+                    </ol>
+                </nav>
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de prestamos</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded text-center">
+        <div class="row">
+            <div class="col">
+                <table class="table">
+                    <thead>
+                        <tr>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Id prestamo:</td>
+                            <td>aa25</td>
+                            <td>Id ejemplar:</td>
+                            <td>ba12</td>
+                        </tr>
+                        <tr>
+                            <td>Id empleado:</td>
+                            <td>1</td>
+                            <td>Id usuario:</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Título libro:</td>
+                            <td>El Hobbit</td>
+                            <td>Estado prestamo:</td>
+                            <td>Prestado</td>
+                        </tr>
+                        <tr>
+                            <td>Fecha inicio:</td>
+                            <td>23-03-2024</td>
+                            <td>Fecha entrega:</td>
+                            <td>07-04-2024</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row text-center mt-3">
+            <div class="col">
+                <a class="btn btn-primary" asp-area="" asp-controller="Prestamos" asp-action="Index">Ver lista de
+                    prestamos</a>
+            </div>
+        </div>
+
+    </div>
+</div>

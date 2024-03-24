@@ -1,3 +1,42 @@
 @{
     ViewData["Title"] = "Prestamo eliminado";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Prestamos"
+                                asp-action="Index">volver</a>
+                        </li>
+                    </ol>
+                </nav>
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de prestamos</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded text-center">
+        <div class="row">
+            <div class="col">
+                <h1>Eliminado correctamente</h1>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col">
+                <a class="btn btn-primary" asp-area="" asp-controller="Prestamos" asp-action="Index">Ver lista de
+                    prestamos</a>
+            </div>
+        </div>
+    </div>
+
+</div>

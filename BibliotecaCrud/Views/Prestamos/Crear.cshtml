@@ -1,3 +1,72 @@
 @{
     ViewData["Title"] = "Crear prestamo";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Prestamos"
+                                asp-action="Index">volver</a>
+                        </li>
+                    </ol>
+                </nav>
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de prestamos</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded">
+        <div class="row col-6 mx-auto">
+            <form>
+                <h2 class="text-center">Crear nuevo prestamo</h2>
+
+                <div class="mb-3">
+                    <label for="inputIdEjemplar" class="form-label">Id del ejemplar</label>
+                    <input type="text" class="form-control" id="inputIdEjemplar">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputIdEmpleado" class="form-label">Id del empleado</label>
+                    <input type="text" class="form-control" id="inputIdEmpleado">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputIdUsuario" class="form-label">Id del usuario</label>
+                    <input type="text" class="form-control" id="inputIdUsuario">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputYearStart" class="form-label">Fecha de inicio</label>
+                    <input type="date" class="form-control" id="inputYearStart">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputYearEnd" class="form-label">Fecha de entrega</label>
+                    <input type="date" class="form-control" id="inputYearEnd">
+                </div>
+
+                <div class="mb-3">
+                    <label for="inputEstado" class="form-label">Estado del prestamo</label>
+                    <select type="date" class="form-control" id="inputEstado">
+                        <option value="" disabled focus>Selecccione una opcion</option>
+                        <option value="En biblioteca">En biblioteca</option>
+                        <option value="Prestado">Prestado</option>
+                    </select>
+                </div>
+                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Prestamos" asp-action="Index">Crear nuevo
+                    prestamo</a>
+            </form>
+        </div>
+    </div>
+
+</div>

@@ -1,3 +1,68 @@
 @{
     ViewData["Title"] = "Prestamos";
 }
+
+<div class="mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <nav class="float-end" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="breadcrumb-item">Gestion de prestamos</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5 border rounded">
+        <div class="row">
+            <div class="col">
+                <a class="d-flex float-start btn btn-primary" asp-area="" asp-controller="Prestamos" asp-action="Crear">Crear nuevo
+                    prestamo</a>
+                <form class="d-flex float-end" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>    
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <table class="table table-striped mt-4">
+                    <tbody>
+                        <tr>
+                            <th scope="col">Id prestamo</th>
+                            <th scope="col">Fecha inicio</th>
+                            <th scope="col">Fecha entrega</th>
+                            <th scope="col">Id ejemplar</th>
+                            <th scope="col">Título libro</th>
+                            <th scope="col">Estado</th>
+                            <th scope="col">Acciones</th>
+                        </tr>
+                        <tr class="align-middle">
+                            <td>aa25</td>
+                            <td>23/03/2024</td>
+                            <td>7/04/2024</td>
+                            <td>ba12</td>
+                            <td>El Hobbit</td>
+                            <td>Prestado</td>
+                            <td>
+                                <div role="group">
+                                    <a class="btn btn-danger" asp-area="" asp-controller="Prestamos"
+                                        asp-action="Eliminar">Eliminar</a>
+                                    <a class="btn btn-warning" asp-area="" asp-controller="Prestamos"
+                                        asp-action="Editar">Editar</a>
+                                    <a class="btn btn-primary" asp-area="" asp-controller="Prestamos"
+                                        asp-action="Detalles">Detalles</a>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
