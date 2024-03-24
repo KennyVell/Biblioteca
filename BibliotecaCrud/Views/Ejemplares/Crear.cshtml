@@ -2,7 +2,6 @@
     ViewData["Title"] = "Crear ejemplar";
 }
 
-
 <div class="mt-5">
 
     <div class="container">
@@ -10,7 +9,8 @@
             <div class="col">
                 <nav class="float-start" style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Ejemplares" asp-action="Index">volver</a>
+                        <li class="breadcrumb-item"><a asp-area="" asp-controller="Ejemplares"
+                                asp-action="Index">volver</a>
                         </li>
                     </ol>
                 </nav>
@@ -33,7 +33,7 @@
                     <label for="inputIdLibro" class="form-label">Id del libro</label>
                     <input type="text" class="form-control" id="inputIdLibro">
                 </div>
-                
+
                 <div class="mb-3">
                     <label for="inputNombre" class="form-label">Nombre del ejemplar</label>
                     <input type="text" class="form-control" id="inputNombre">
@@ -43,7 +43,7 @@
                     <label for="inputCantidad" class="form-label">Cantidad de ejemplares</label>
                     <input type="number" class="form-control" id="inputCantidad">
                 </!--div-->
-    
+
                 <div class="mb-3">
                     <label for="inputEstado" class="form-label">Esatdo del ejemplar</label>
                     <select type="date" class="form-control" id="inputEstado">
@@ -52,7 +52,8 @@
                         <option value="mal estado">Mal estado</option>
                     </select>
                 </div>
-                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Ejemplares" asp-action="Index">Crear nuevo ejemplar</a>
+                <a class="btn btn-primary mt-3" asp-area="" asp-controller="Ejemplares" asp-action="Index">Crear nuevo
+                    ejemplar</a>
             </form>
         </div>
     </div>
